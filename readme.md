@@ -12,7 +12,8 @@
     pip install -r requirements.txt
 ```
 
-4.**Treine ou execute o modelo pronto**
+4. **Treine ou execute o modelo pronto**
+
 **Para treinar**
 ```bash
     py .\main.py
